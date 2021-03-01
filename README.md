@@ -43,6 +43,10 @@ If you want to use fonts in Markdown:
 ```
 </code></pre>
 
+Output:
+
+![Output IchigoJam FONT](/output.png)
+
 Currently the latest is `IchigoJam BASIC 1.4` .\
 `IchigoJam BASIC 1.2` font:\
 change `1.4` to` 1.2`
