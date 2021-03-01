@@ -59,6 +59,12 @@ ___
 
 Details: [Kid's PC IchigoJam](https://ichigojam.net/index-en.html)
 
+Do you have an old Raspberry Pi?\
+Try: [IchigoJam BASIC RPi](https://na-s.jp/IJBRPi/)
+
+Or you can use it now!
+[IchigoJam web](https://fukuno.jig.jp/app/IchigoJam/)
+
 ___
 
 ## License
