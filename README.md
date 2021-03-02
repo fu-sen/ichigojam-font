@@ -39,7 +39,18 @@ code.language-ichigojam
 }
 ```
 
-If you want to use fonts in Markdown:
+If you want to use fonts in HTML:
+
+```
+<pre><code class="language-ichigojam">10 INPUT A
+20 INPUT B
+30 C=A+B
+40 PRINT C
+50 END
+</code></pre>
+```
+
+or Markdown:
 
 <pre><code>```ichigojam
 10 INPUT A
