@@ -76,7 +76,7 @@ ___
 
 ## What's IchigoJam?
 
-![IchigoJam S](/ichigojam-s.jpg)\
+![IchigoJam R](/ichigojam-r.jpg)\
 ![IchigoJam BASIC](/ichigojam-basic.jpg)
 
 Details: [Kid's PC IchigoJam](https://ichigojam.net/index-en.html)
