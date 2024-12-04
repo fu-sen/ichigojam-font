@@ -19,9 +19,9 @@ CSS:
     font-style: normal;
     font-weight: 400;
     src: local('IchigoJam-1.4'), local('IchigoJam-1.4-Regular'),
-         url("https://cdn.jsdelivr.net/gh/fu-sen/ichigojam-font@20190814/IchigoJam-1.4.woff2") format('woff2'),
-         url("https://cdn.jsdelivr.net/gh/fu-sen/ichigojam-font@20190814/IchigoJam-1.4.woff") format('woff'),
-         url("https://cdn.jsdelivr.net/gh/fu-sen/ichigojam-font@20190814/IchigoJam-1.4.ttf") format('ttff');
+         url("https://cdn.jsdelivr.net/gh/fu-sen/ichigojam-font@20190814-2/IchigoJam-1.4.woff2") format('woff2'),
+         url("https://cdn.jsdelivr.net/gh/fu-sen/ichigojam-font@20190814-2/IchigoJam-1.4.woff") format('woff'),
+         url("https://cdn.jsdelivr.net/gh/fu-sen/ichigojam-font@20190814-2/IchigoJam-1.4.ttf") format('ttff');
 }
 code.language-ichigojam
 {
