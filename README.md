@@ -67,7 +67,7 @@ Currently the latest is `IchigoJam BASIC 1.4` .\
 change `1.4` to` 1.2`
 
 Development version (It can change suddenly!):\
-change `20190814` to `master` 
+change `20190814-2` to `master` 
 
 ___
 
