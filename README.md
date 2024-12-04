@@ -4,11 +4,6 @@
 
 CDN: [jsDelivr](https://www.jsdelivr.com/)
 
-Original IchigoJam FONT TrueType:
-- [IchigoJam 1.4 | FontStruct](https://fontstruct.com/fontstructions/show/1656281)
-- [IchigoJam 1.2 | FontStruct](https://fontstruct.com/fontstructions/show/1266121)
-- [IchigoJam | FontStruct](https://fontstruct.com/fontstructions/show/1151147)
-- [IchigoJam-GRAPH | FontStruct](https://fontstruct.com/fontstructions/show/1151380)
 - 日本語: [IchigoJam フォント TrueType | イチゴジャム レシピ](https://15jamrecipe.jimdofree.com/%E3%83%84%E3%83%BC%E3%83%AB/%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88-truetype/)
 
 ___
@@ -24,7 +19,9 @@ CSS:
     font-style: normal;
     font-weight: 400;
     src: local('IchigoJam-1.4'), local('IchigoJam-1.4-Regular'),
-         url("https://cdn.jsdelivr.net/gh/fu-sen/ichigojam-font@20190814/IchigoJam-1.4.woff") format('woff');
+         url("https://cdn.jsdelivr.net/gh/fu-sen/ichigojam-font@20190814/IchigoJam-1.4.woff2") format('woff2'),
+         url("https://cdn.jsdelivr.net/gh/fu-sen/ichigojam-font@20190814/IchigoJam-1.4.woff") format('woff'),
+         url("https://cdn.jsdelivr.net/gh/fu-sen/ichigojam-font@20190814/IchigoJam-1.4.ttf") format('ttff');
 }
 code.language-ichigojam
 {
